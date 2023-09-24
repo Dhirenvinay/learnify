@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "871458519395",
+    "project_id": "learny-78497",
+    "storage_bucket": "learny-78497.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:871458519395:android:1fdc44e4fbef2430fd7b56",
+        "android_client_info": {
+          "package_name": "com.example.leanify"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1TGZpHK-kb7ciAfyT62P5xx6blfHHYlQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
